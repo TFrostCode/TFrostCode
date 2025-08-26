@@ -3,12 +3,11 @@
 - 📚 Interested in **web development, databases, and clean code practices**  
 - 🎯 Aspiring **Full-Stack Developer**, eager to contribute to **innovative projects**  
 
-## 🌐 Socials
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-david-garcia-alayo-0b580125a)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frostcode12@gmail.com)
 
-
-# 💻 Tech Stack
+# 💻 Tech Stack:
 
 **Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
@@ -27,22 +26,12 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)  
 
-**Tools & Others**  
+**Tools**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)  
 
-
-# 📊 GitHub Stats
-<div align="center">
-
-<table>
-<tr>
-<img src="https://github-readme-stats.vercel.app/api?username=TFrostCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TFrostCode&theme=tokyonight&hide_border=false" />
-</tr>
-</table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFrostCode&theme=tokyonight&hide_border=false&layout=compact" />
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TFrostCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=TFrostCode&theme=tokyonight&hide_border=false)
