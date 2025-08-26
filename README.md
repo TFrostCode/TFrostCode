@@ -1,7 +1,14 @@
-# 💫 About Me:
+# 💫 About Me
 - 🌱 Currently learning and improving my skills in **programming** and **software development**  
 - 📚 Interested in **web development, databases, and clean code practices**  
 - 🎯 Aspiring **Full-Stack Developer**, eager to contribute to **innovative projects**  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TFrostCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFrostCode&theme=tokyonight&hide_border=false&layout=compact" height="160"/>
+
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-david-garcia-alayo-0b580125a)
@@ -32,5 +39,3 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)  
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=TFrostCode&theme=tokyonight&hide_border=false)
