@@ -4,9 +4,6 @@
 - 🎯 Aspiring **Full-Stack Developer**, eager to contribute to **innovative projects**  
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFrostCode&theme=tokyonight&hide_border=false&layout=compact" height="160"/>
-
 </div>
 
 ## 🌐 Socials:
