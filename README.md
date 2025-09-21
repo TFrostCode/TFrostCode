@@ -1,7 +1,7 @@
 # 💫 About Me
-- 🌱 Currently learning and improving my skills in **programming** and **software development**  
+- 🌱 Currently learning and improving my skills in **programming** and **cybersecurity**  
 - 📚 Interested in **web development, databases, and clean code practices**  
-- 🎯 Aspiring **Full-Stack Developer**, eager to contribute to **innovative projects**  
+- 🎯 Aspiring **Backend Developer**, eager to contribute to **innovative projects**  
 
 <div align="center">
 </div>
