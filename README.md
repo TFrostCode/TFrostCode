@@ -12,5 +12,5 @@
 
 # 💻 Tech Stack:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,mysql,tailwind,git,react,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,mysql,postgresql,tailwind,git,react,bash,linux" />
 </a>
