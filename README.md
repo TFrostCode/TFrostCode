@@ -1,13 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0f3460&height=200&section=header&text=TFrostCode&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 # 💫 About Me
 - 🌱 Currently learning and improving my skills in **programming** and **cybersecurity**  
 - 📚 Interested in **web development, databases, and clean code practices**  
 - 🎯 Aspiring **Backend Developer**, eager to contribute to **innovative projects**  
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFrostCode&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TFrostCode&theme=tokyonight" />
 </p>
 
 ## 🌐 Socials:
